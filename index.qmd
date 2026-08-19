@@ -2,14 +2,6 @@
 title: A Vision for the Future of Academic Publishing in Sports Analytics
 subtitle: Founding Editorial for the *Journal of Statistics and Data Science in Sports*
 author:
-  - name: Michael E. Schuckers
-    orcid: 0000-0002-4817-7089
-    corresponding: true
-    email: 
-    roles:
-      - Editor-in-Chief
-    affiliations:
-      - University of North Carolina, Charlotte
   - name: Benjamin S. Baumer
     orcid: 0000-0002-3279-0516
     corresponding: false
@@ -34,6 +26,14 @@ author:
     roles: Associate Editor
     affiliations:
       - University of Loyola, Chicago
+  - name: Michael E. Schuckers
+    orcid: 0000-0002-4817-7089
+    corresponding: true
+    email: 
+    roles:
+      - Editor-in-Chief
+    affiliations:
+      - University of North Carolina, Charlotte
 date: last-modified
 bibliography: references.bib
 number-sections: false
