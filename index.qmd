@@ -68,7 +68,7 @@ At *JSDSS*, open access means **free** to read and **free** to publish---no exce
 *JSDSS* is a [Diamond Open Access](https://en.wikipedia.org/wiki/Diamond_open_access) journal.
 Research supported by academic institutions, public funding, or personal effort should not require a payment to reach the audience it deserves.
 
-Second, reproducibility is essential and not an afterthought. 
+Second, reproducibility is critical and fundamental to the journal. 
 The credibility of sports analytics research depends on our ability to verify, replicate, and build upon earlier work. 
 *JSDSS* will actively incentivize transparency in data, code, and methodology, and work that meets our reproducibility standards will receive a special designation recognizing this commitment.
 
