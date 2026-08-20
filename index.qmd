@@ -2,14 +2,6 @@
 title: A Vision for the Future of Academic Publishing in Sports Analytics
 subtitle: Founding Editorial for the *Journal of Statistics and Data Science in Sports*
 author:
-  - name: Michael E. Schuckers
-    orcid: 0000-0002-4817-7089
-    corresponding: true
-    email: 
-    roles:
-      - Editor-in-Chief
-    affiliations:
-      - University of North Carolina, Charlotte
   - name: Benjamin S. Baumer
     orcid: 0000-0002-3279-0516
     corresponding: false
@@ -34,6 +26,14 @@ author:
     roles: Associate Editor
     affiliations:
       - University of Loyola, Chicago
+  - name: Michael E. Schuckers
+    orcid: 0000-0002-4817-7089
+    corresponding: true
+    email: 
+    roles:
+      - Editor-in-Chief
+    affiliations:
+      - University of North Carolina, Charlotte
 date: last-modified
 bibliography: references.bib
 number-sections: false
@@ -41,7 +41,7 @@ number-sections: false
 
 Dear Colleagues,
 
-It is our great privilege to introduce the [*Journal of Statistics and Data Science in Sports*](https://jsds-sports.github.io/) (*JSDSS*). 
+It is our great privilege to introduce the [*Journal of Statistics and Data Science in Sports*](https://jsds-sports.github.io/) (*JSDSS*), a Diamond Open Access, peer-reviewed journal, with an emphasis on quality and reproducibility.
 We write to you not only to announce a new publication venue, but to share a founding philosophy that we believe is long overdue in our field. 
 *JSDSS* is born out of a shared frustration with the increasingly exploitative dynamics of academic publishing, and a collective conviction that there is a better way forward. 
 We are confident that many of you share this frustration.
@@ -63,14 +63,14 @@ We invite you to join us on this journey.
 
 *JSDSS* was founded on three core principles. 
 
-First, our commitment to open access is more than just lip service. 
+First, our commitment to open access is absolute. 
 At *JSDSS*, open access means **free** to read and **free** to publish---no exceptions. 
 *JSDSS* is a [Diamond Open Access](https://en.wikipedia.org/wiki/Diamond_open_access) journal.
 Research supported by academic institutions, public funding, or personal effort should not require a payment to reach the audience it deserves.
 
-Second, reproducibility is essential and not an afterthought. 
-The credibility of sports analytics research depends on our ability to verify, replicate, and build upon earlier work. 
-*JSDSS* will actively incentivize transparency in data, code, and methodology, and work that meets our reproducibility standards will receive a special designation recognizing this commitment.
+Second, reproducibility is critical and fundamental to the journal. 
+The credibility of sports analytics research and scientific research, in general, depends on our ability to verify, replicate, and build upon earlier work. 
+*JSDSS* will actively encourage transparency in data, code, and methodology. We will provide exceptions for proprietary data.
 
 Third, we believe sport is a rich and underutilized laboratory for statistical and data science innovation. 
 From player evaluation and in-game strategy to league design and fan engagement, sports data present compelling, real-world problems that demand rigorous and creative analytical thinking. 
@@ -96,7 +96,7 @@ These analyses may include, but are not limited to:
   * In–game strategy, player acquisition, and player and team ratings and evaluation,
   * Predicting play, game, or season outcomes, analysis of league structures and rules,
   * Analysis of player-tracking data, 
-  * Any other analyses that would help teams, players, fans, leagues, media and researchers understand the game better or make more-informated decisions. 
+  * Any other analyses that would help teams, players, fans, leagues, media and researchers understand the game better or make more-informed decisions. 
 
 We also accept timely review articles and manuscripts discussing novel datasets, innovative software or applications and original applications of methodology to sports data. 
 Applications should be focused on relevant questions whose answers are likely to be actionable by players, coaches, managers, and/or league officials. 
@@ -109,12 +109,13 @@ Additionally, reproducibility is strongly encouraged particularly when non-propr
 * **Reproducibility recognition**: Articles that meet our reproducibility standards — sharing data, code, and analytic workflows — receive a special designation visible in the journal.
 * **Broad article types**: In addition to traditional research papers, *JSDSS* welcomes review articles, data notes, software/application papers, and rapid communications.
 * **Community focus**: *JSDSS* is built by and for the sports statistics community. We welcome contributions from academics and practitioners alike, and we are committed to constructive, timely peer review.
-* **Best-in-class open platforms**: *JSDSS* is published by the [J. Murrey Atkins Library](https://library.charlotte.edu/) at the [University of North Carolina Charlotte](https://www.charlotte.edu/), who is also providing backend support for our use of the [Open Journal Systems](https://pkp.sfu.ca/software/ojs/) platform. We are partnering with [Project Euclid](https://projecteuclid.org/) to disseminate our content, and will be experimenting with reproducibility reviews using [GitHub](https://github.com/jsds-sports). 
+* **Best-in-class open platforms**: *JSDSS* is published by the [J. Murrey Atkins Library](https://library.charlotte.edu/) at the [University of North Carolina Charlotte](https://www.charlotte.edu/), who is also providing backend support for our use of the [Open Journal Systems](https://pkp.sfu.ca/software/ojs/) platform. We are partnering with [Project Euclid](https://projecteuclid.org/) to disseminate our content, and will be conducting with reproducibility reviews using [GitHub](https://github.com/jsds-sports). 
 
 ## Peer Review and Publishing Ethics
 
 *JSDSS* adheres to the highest ethical standards. 
 All submitted manuscripts are subject to initial review by the editorial team, and those found suitable will undergo peer review by independent, anonymous expert referees.
+Manuscripts will 
 We are committed to timely review and constructive feedback. 
 Our goal is to make *JSDSS* a venue where authors feel their work will be treated with fairness, expertise, and respect.
 
@@ -126,7 +127,7 @@ That possibility is part of what makes this field exciting, and it is part of wh
 
 We warmly invite researchers, practitioners, and innovators to contribute their best work to *JSDSS*. 
 We also invite feedback as we build this journal together. 
-Together, we can demonstrate that high-quality, open, reproducible science and academic publishing are not mutually exclusive, but rather are complementary.
+Together, we can demonstrate that high-quality, open, reproducible science and academic publishing are complementary.
 
 We look forward to working with you!
 
