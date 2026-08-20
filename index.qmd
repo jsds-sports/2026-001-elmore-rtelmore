@@ -41,7 +41,7 @@ number-sections: false
 
 Dear Colleagues,
 
-It is our great privilege to introduce the [*Journal of Statistics and Data Science in Sports*](https://jsds-sports.github.io/) (*JSDSS*). 
+It is our great privilege to introduce the [*Journal of Statistics and Data Science in Sports*](https://jsds-sports.github.io/) (*JSDSS*), a Diamond Open Access, peer-reviewed journal, with an emphasis on quality and reproducibility.
 We write to you not only to announce a new publication venue, but to share a founding philosophy that we believe is long overdue in our field. 
 *JSDSS* is born out of a shared frustration with the increasingly exploitative dynamics of academic publishing, and a collective conviction that there is a better way forward. 
 We are confident that many of you share this frustration.
