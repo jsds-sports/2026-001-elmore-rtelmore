@@ -109,7 +109,7 @@ Additionally, reproducibility is strongly encouraged particularly when non-propr
 * **Reproducibility recognition**: Articles that meet our reproducibility standards — sharing data, code, and analytic workflows — receive a special designation visible in the journal.
 * **Broad article types**: In addition to traditional research papers, *JSDSS* welcomes review articles, data notes, software/application papers, and rapid communications.
 * **Community focus**: *JSDSS* is built by and for the sports statistics community. We welcome contributions from academics and practitioners alike, and we are committed to constructive, timely peer review.
-* **Best-in-class open platforms**: *JSDSS* is published by the [J. Murrey Atkins Library](https://library.charlotte.edu/) at the [University of North Carolina Charlotte](https://www.charlotte.edu/), who is also providing backend support for our use of the [Open Journal Systems](https://pkp.sfu.ca/software/ojs/) platform. We are partnering with [Project Euclid](https://projecteuclid.org/) to disseminate our content, and will be experimenting with reproducibility reviews using [GitHub](https://github.com/jsds-sports). 
+* **Best-in-class open platforms**: *JSDSS* is published by the [J. Murrey Atkins Library](https://library.charlotte.edu/) at the [University of North Carolina Charlotte](https://www.charlotte.edu/), who is also providing backend support for our use of the [Open Journal Systems](https://pkp.sfu.ca/software/ojs/) platform. We are partnering with [Project Euclid](https://projecteuclid.org/) to disseminate our content, and will be conducting with reproducibility reviews using [GitHub](https://github.com/jsds-sports). 
 
 ## Peer Review and Publishing Ethics
 
