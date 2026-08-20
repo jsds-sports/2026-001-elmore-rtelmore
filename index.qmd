@@ -70,7 +70,7 @@ Research supported by academic institutions, public funding, or personal effort 
 
 Second, reproducibility is critical and fundamental to the journal. 
 The credibility of sports analytics research depends on our ability to verify, replicate, and build upon earlier work. 
-*JSDSS* will actively incentivize transparency in data, code, and methodology, and work that meets our reproducibility standards will receive a special designation recognizing this commitment.
+*JSDSS* will actively encourage transparency in data, code, and methodology. We will provide exceptions for proprietary data.
 
 Third, we believe sport is a rich and underutilized laboratory for statistical and data science innovation. 
 From player evaluation and in-game strategy to league design and fan engagement, sports data present compelling, real-world problems that demand rigorous and creative analytical thinking. 
