@@ -37,6 +37,7 @@ author:
 date: last-modified
 bibliography: references.bib
 number-sections: false
+abstract: This article introduce the [*Journal of Statistics and Data Science in Sports*](https://jsds-sports.github.io/) (*JSDSS*), a Diamond Open Access, peer-reviewed journal.  The journal is founded on three core principles.  First, our commitment to open access is absolute.  Second, reproducibility is critical and fundamental to the journal.  Third, we believe sport is a rich and underutilized laboratory for statistical and data science innovation. The aim of the *Journal of Statistics and Data Science in Sports* is to provide an outlet for original, rigorous, practical, state-of-the-art, reproducible, and peer-reviewed analysis of sports data as well as the data science tools (software, applications, data, etc.) that support those analyses.  We define sports broadly to include any nondeterministic competition or game. Finally, we welcome submissions that analyze any aspect of sports data in appropriate and innovative ways. 
 ---
 
 Dear Colleagues,
