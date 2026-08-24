@@ -71,7 +71,7 @@ Research supported by academic institutions, public funding, or personal effort 
 
 Second, reproducibility is critical and fundamental to the journal. 
 The credibility of sports analytics research and scientific research, in general, depends on our ability to verify, replicate, and build upon earlier work. 
-*JSDSS* will actively encourage transparency in data, code, and methodology. We will provide exceptions for proprietary data.
+*JSDSS* will require transparency in data, code, and methodology. We will provide exceptions for proprietary data.
 
 Third, we believe sport is a rich and underutilized laboratory for statistical and data science innovation. 
 From player evaluation and in-game strategy to league design and fan engagement, sports data present compelling, real-world problems that demand rigorous and creative analytical thinking. 
@@ -81,7 +81,7 @@ We intend for *JSDSS* to be the definitive venue for this work.
 
 ### Aims
 
-The aim of the *Journal of Statistics and Data Science in Sports* is to provide an outlet for original, rigorous, practical, state-of-the-art, reproducible, and peer-reviewed analysis of sports data as well as the data science tools (software, applications, data, etc.) that support those analyses. 
+The aim of the *Journal of Statistics and Data Science in Sports* is to provide an outlet for original, rigorous, practical, state-of-the-art, reproducible, and peer-reviewed analyses of sports data as well as the data science tools (software, applications, data, etc.) that support those analyses. 
 The *Journal of Statistics and Data Science in Sports* will always be fully open to both readers and authors: there are no fees associated with publishing or accessing articles in *JSDSS*.  
 Submissions will be required to follow the [Journal of the American Statistical Association protocols for reproducibility](https://jasa-acs.github.io/repro-guide/).  
 
